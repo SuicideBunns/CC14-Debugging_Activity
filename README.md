@@ -1,7 +1,20 @@
 # CC14-Unit-3-Debugging-Activity
 
-<p>There are parts that have missing closing tags in the html file like "h2" and "a"  which is why the raw file is messy and it has mix elements</p>
+<p>Missing Clossing Tags</p>
+<ol>
+  <li>I put h2 closing tag on the About Us section</li>
+  <li>I also put a closing tag for the nav</li>
+</ol>
 <hr>
-<p>I also changed the external file link for the css because it is wrong and the css won't work on the html</p>
+<p>Wrong external link for css.style</p>
+<ol>
+  <li>I rename the external link name to "css.style" in order for the css to work</li>
+</ol>
 <hr>
-<p>In the css part, there are missing closing bracket which is why some html elements are not getting the styles. In addition, there are missing semi-colon and wrong colon which is why the css is having the styles needed.</p>
+<p>Missing closing bracket, colon, and semicolon, wrong spelling "heade"</p>
+<ol>
+  <li>I placed closing bracket to the selector "main section"</li>
+  <li>I also placed semi-colon and colon to the footer part that doesn't have it</li>
+  <li>I fixed the spelling for header</li>
+</ol>
+
